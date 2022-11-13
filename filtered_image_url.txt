@@ -1,0 +1,1 @@
+http://image-filter-0207-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://th.bing.com/th/id/R.514ec7c44c27d6512f557d88046eff1c?rik=2JFgjgq3fNODsg&riu=http%3a%2f%2fstates-world.ru%2fflags%2fyor-fe.png&ehk=RJZ2C%2f2WgVlgxgmtm6qrCaRatgtrw6ZxJUX1SjFpdJA%3d&risl=&pid=ImgRaw&r=0
